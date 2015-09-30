@@ -8,7 +8,9 @@
 
 import Foundation
 
-class RecordedAudio: NSObject {
+// Differences between subclassing NSObject and using a Swift base class:
+// http://stackoverflow.com/questions/24057525/swift-native-base-class-or-nsobject
+class RecordedAudio {
     var filePathUrl: NSURL!
     var title: String!
     

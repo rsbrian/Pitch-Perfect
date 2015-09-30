@@ -200,16 +200,16 @@
                                 <exclude reference="t6x-Jj-mah"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="c2U-r5-eY5"/>
-                                <exclude reference="m5d-kj-s9w"/>
-                                <exclude reference="InN-Od-WJc"/>
-                                <exclude reference="xFS-uv-xny"/>
+                                <exclude reference="kMh-dR-zGg"/>
                                 <exclude reference="NVa-Fe-8fW"/>
                                 <exclude reference="z6m-SQ-j8w"/>
+                                <exclude reference="InN-Od-WJc"/>
+                                <exclude reference="xFS-uv-xny"/>
+                                <exclude reference="c2U-r5-eY5"/>
+                                <exclude reference="m5d-kj-s9w"/>
                                 <exclude reference="JQv-F9-xXc"/>
                                 <exclude reference="mc8-U6-kep"/>
                                 <exclude reference="c40-LH-Bxb"/>
-                                <exclude reference="kMh-dR-zGg"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -221,16 +221,16 @@
                                 <include reference="t6x-Jj-mah"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="c2U-r5-eY5"/>
-                                <include reference="m5d-kj-s9w"/>
-                                <include reference="InN-Od-WJc"/>
-                                <include reference="xFS-uv-xny"/>
+                                <include reference="kMh-dR-zGg"/>
                                 <include reference="NVa-Fe-8fW"/>
                                 <include reference="z6m-SQ-j8w"/>
+                                <include reference="InN-Od-WJc"/>
+                                <include reference="xFS-uv-xny"/>
+                                <include reference="c2U-r5-eY5"/>
+                                <include reference="m5d-kj-s9w"/>
                                 <include reference="JQv-F9-xXc"/>
                                 <include reference="mc8-U6-kep"/>
                                 <include reference="c40-LH-Bxb"/>
-                                <include reference="kMh-dR-zGg"/>
                             </mask>
                         </variation>
                     </view>
